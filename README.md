@@ -1,5 +1,6 @@
 # wrchive
 ### Revive Weatheradio Canada on PC (Windows, with planned MacOS/Linux)
+### Need help? DM my discord @x3901
 
 # First time Setup process (WINDOWS)
 ### 1. Download the .zip
